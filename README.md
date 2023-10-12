@@ -1,5 +1,5 @@
 # Costco_Sales_Dashboard
-This is a project on the SuperStore chain Costco in which its 2 year sales dataset is present a sales dashboard is made by PowerBI
+This project uses a two-year sales dataset from the SuperStore chain Costco, with a sales dashboard created using PowerBI.
 Project Objective
       Data Cleaning
       DAX Queries
